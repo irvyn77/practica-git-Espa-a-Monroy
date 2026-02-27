@@ -1,0 +1,5 @@
+L¡nea 1: Hola, soy Irvyn Geovany 
+L¡nea 2: Practicando Git y GitHub para la tarea 
+L¡nea 3: Aprend¡ a clonar el repositorio y crear ramas 
+L¡nea 4: Git es genial para trabajar en equipo 
+L¡nea 5: ­Mi aporte est  listo para el push! 
